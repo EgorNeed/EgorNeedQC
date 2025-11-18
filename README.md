@@ -1,22 +1,25 @@
-# Привет, меня зовут Артем!
+# Привет, меня зовут Георгий!
 
 ---
 
 ### 👨‍💻 Обо мне:
 
-Я тестировщик и создатель курсов по различным направлениям тестирования. Основной домен - тестирование веб-приложений (front + back). У меня есть канал на YouTube с аудиторией более 158.000 человек. Зв время преподавтаельсккой деятельности обучил более 10.000 студентов на разных платформах.
+Я начинающий тестировщик. Основной домен - тестирование веб-приложений (front + back). 
 
-- 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@artsiomrusau-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/artsiomrusau/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:qa.rusau@gmail.com)
+📫 Как связаться со мной:
+<div id="badges">
+       <a href="mailto:egor_need@mail.com" target="_blank">
+      <img src="https://logo-teka.com/wp-content/uploads/2025/08/mail-ru-sign-logo.svg" width="40" height="40" alt="telegram" />
+    </a>
+  </div>
+
 
 ---
 
 ### 🤝 Социальные сети:
 
   <div id="badges">
-    <a href="https://www.linkedin.com/in/artsiomrusau/" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
-    </a>
-    <a href="https://t.me/artsiom_qa" target="_blank">
+       <a href="https://t.me/egor_need" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
     </a>
   </div>
@@ -81,10 +84,11 @@
 
 <!-- ### 💻 Пройденные курсы:
 
-| Курсы                                                           | Дата              |
-| ----------------------------------------------------------------| :---------------: |
-| netology.ru/Старт в программировании                            | 02/2022 - 03/2022 |
-
+| Курсы                                                                       | Дата              |
+| --------------------------------------------------------------------------- | :---------------: |
+| stepik.org/Тестирование ПО с нуля. Теория + Практика. Уровень BASIC         | 09/2025 - 10/2025 |
+| stepik.org/Тестирование ПО с нуля. Теория + Практика. Уровень PRO           | 10/2025 - 11/2025 |
+| stepik.org/Основы backend на Java 21 и Spring с @NikiforovJava [2024] 27 ч  | 05/2025 - 06/2025 |
 --- -->
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=testrusau)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=EgorNeedQC)
